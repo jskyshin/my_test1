@@ -26,6 +26,8 @@ def find_majority(lts):
 
 if __name__ == '__main__':
 
+
+    # March 16, 2025
     lts = [1, 2, 1, 1, 3, 4, 0]
     find_majority(lts)
 
